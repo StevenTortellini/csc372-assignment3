@@ -68,6 +68,11 @@ footer {
     object-fit: cover;/* Prevents stretching */
     border-radius: 6px;
 }
+.card.highlight {
+    background-color: #fff9c4; 
+    border: 2px solid #ffeb3b; 
+    color: #1e1e1e;
+}
 
 #contact {
     text-align: center;
